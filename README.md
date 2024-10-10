@@ -15,7 +15,7 @@ A C++ implementation of the Merge Sort algorithm with parallel processing using 
 
 3. Run the executable:
    ```bash
-   ./parallel_sort
+   parallel_sort.exe
    ```
 
 ## Features
